@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.cover{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.54), rgba(0, 0, 0, 0.69)), url(/img/cover-bg.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.about{
+    background: linear-gradient(0deg, rgba(233, 231, 231, 0.54), rgba(225, 222, 222, 0.69)), url(/img/white-abstract.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+.event{
+    background: linear-gradient(0deg, rgba(233, 231, 231, 0.54), rgba(225, 222, 222, 0.69)), url(/img/white-event.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    
+}
+.courses{
+    background: linear-gradient(0deg, rgba(233, 231, 231, 0.54), rgba(225, 222, 222, 0.69)), url(/img/whitebg.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.contact-us{
+    background: linear-gradient(0deg, rgba(233, 231, 231, 0.54), rgba(225, 222, 222, 0.69)), url(/img/contact-us.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    
+}
+.coverpast{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.54), rgba(0, 0, 0, 0.69)), url(/img/pastquestion.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.webdesign{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/web.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.graphic{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/graphics-design.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.UIdesign{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/ui:ux.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.department{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/web.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.pastquestion{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/past-question.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cyber{
+    background: linear-gradient(0deg, rgba(25, 23, 23, 0.54), rgba(40, 35, 35, 0.69)), url(/img/cyber.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
